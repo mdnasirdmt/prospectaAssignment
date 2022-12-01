@@ -10,4 +10,5 @@ public class ProspectaApplication {
 		SpringApplication.run(ProspectaApplication.class, args);
 	}
 
+	
 }
